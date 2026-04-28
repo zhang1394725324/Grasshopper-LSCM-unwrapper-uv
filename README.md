@@ -2,6 +2,7 @@
 
 Grasshopper LSCM纹理映射脚本
 **通过deepseek生成实现。**
+**适用于Mac和Windows**
 
 ## Grasshopper 组件设置
 
@@ -17,3 +18,4 @@ Grasshopper LSCM纹理映射脚本
 
 
 ![这是图片](GH_LSCM_image.png "Magic Gardens")
+
