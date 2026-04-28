@@ -18,7 +18,7 @@ Grasshopper LSCM纹理映射脚本 <br>
 | `uv_mesh`        | Mesh    | UV空间的平面网格     |
 
 
-![这是图片](GH_LSCM_image.png "GH_LSCM")
+![这是GH_LSCM.py](GH_LSCM_image.png "GH_LSCM")
 
 
 ## Grasshopper 设置(GH_UV_unwrapp.py)
