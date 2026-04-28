@@ -12,6 +12,8 @@ Grasshopper LSCM纹理映射脚本 for python <br>
 
 ![这是效果图](images/Effect_picture.png "效果图")
 
+![这是效果图](images/images/picture_01.png "效果图")
+
 -----
 ## Grasshopper 组件设置(GH_LSCM.py)
 
