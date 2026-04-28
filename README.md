@@ -1,8 +1,8 @@
 # Grasshopper-LSCM-unwrapper-uv
 
-Grasshopper LSCM纹理映射脚本
-**通过deepseek生成实现。**
-**适用于Mac和Windows**
+Grasshopper LSCM纹理映射脚本 <br>
+**通过deepseek生成实现。** <br>
+**适用于Mac和Windows** <br>
 
 ## Grasshopper 组件设置
 
