@@ -10,6 +10,9 @@ Grasshopper LSCM纹理映射脚本 for python <br>
 如果您会使用`Mesh`中的`Mesh Closest Point`和`Mesh Eval`命令(或者是`kangaroo2`中的`MeshMap`)，那么您将创建和shapemap类似的效果。<br>
 如果你使用的是windows系统，更推荐您使用Rhino官方插件[shapemap](https://www.food4rhino.com/en/app/shapemap)（点击下载），当然，如果你使用的是Mac系统，就可以使用此程序。*
 
+>**点击下载:[`GH_Files/Rhino8_GH_unwrap_uv_texture_pro.gh`](https://github.com/zhang1394725324/Grasshopper-LSCM-unwrapper-uv/blob/main/GH_Files/Rhino8_GH_unwrap_uv_texture_pro.gh)**
+
+
 ![这是效果图](images/Effect_picture.png "效果图")
 
 ![这是效果图](images/picture_01.png "效果图")
