@@ -1,6 +1,6 @@
 # Grasshopper-LSCM-unwrapper-uv
 -----
-Grasshopper LSCM纹理映射脚本 <br>
+Grasshopper LSCM纹理映射脚本 for python <br>
 **通过deepseek生成实现。** <br>
 **适用于Mac和Windows** <br>
 **适用版本：Rhino8** <br>
