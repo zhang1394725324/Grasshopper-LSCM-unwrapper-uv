@@ -4,6 +4,13 @@ Grasshopper LSCM纹理映射脚本 for python <br>
 **通过deepseek生成实现。** <br>
 **适用于Mac和Windows** <br>
 **适用版本：Rhino8** <br>
+**适用版本：Rhino8** <br>
+-----
+*这个程序是创建和shapemap类似的效果，目的是给用户创建纹理映射所需的展开图，如果您会使用`Mesh`中的`Mesh Closest Point`和`Mesh Eval`命令，那么您将创建和shapemap类似的效果。<br>
+如果你使用的是windows系统，更推荐您使用Rhino官方插件[shapemap]([https://](https://www.food4rhino.com/en/app/shapemap))，当然，如果你使用的是Mac系统，就可以使用此程序。*
+
+![这是效果图](images/Effect_picture.png "效果图")
+
 -----
 ## Grasshopper 组件设置(GH_LSCM.py)
 
