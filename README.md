@@ -56,3 +56,25 @@ Grasshopper LSCM纹理映射脚本 for python <br>
 
 
 ![这是GH_UV_unwrapp](GH_UV_unwrapp_image.png "GH_UV_unwrapp")
+
+## Grasshopper 设置(GH_UV_unwrapp_pro.py)
+### 输入参数 (Inputs)
+
+| 参数名               | 类型访问 | 数据格式 | 说明             |
+| ---------------------- | ---------- | ---------- | ------------------ |
+| `input_mesh`     | Mesh     | Item     | 要展开的原始网格 |
+| `run`            | Boolean  | Item     | 运行控制开关     |
+| `reset`          | Boolean  | Item     | 复位按钮         |
+| `method`         | Integer  | Item     | 展开方法 (0/1/2) |
+| `use_symmetry`   | Boolean  | Item     | 是否启用对称     |
+| `symmetry_plane` | Plane    | Item     | 对称平面（可选） |
+
+### 输出参数 (Outputs)
+
+| 参数名               | 类型访问 | 说明                 |
+| ---------------------- | ---------- | ---------------------- |
+| `unwrapped_mesh` | Mesh     | 带有UV坐标的原始网格 |
+| `uv_points`      | Point3d  | UV坐标点云           |
+| `uv_mesh`        | Mesh     | UV空间的平面网格     |
+
+![这是GH_UV_unwrapp_pro](GH_UV_unwrapp_pro_image.png "GH_UV_unwrapp_pro")
