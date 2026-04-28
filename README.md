@@ -33,4 +33,4 @@ Grasshopper LSCM纹理映射脚本 <br>
 | `uv_points`      | Point3d | UV坐标点云           |
 | `uv_mesh`        | Mesh    | UV空间的平面网格     |
 
-![这是GH_UV_unwrapp](GH_UV_unwrapp.png "GH_UV_unwrapp")
+![这是GH_UV_unwrapp](GH_UV_unwrapp_image.png "GH_UV_unwrapp")
