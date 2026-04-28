@@ -18,7 +18,7 @@ Grasshopper LSCM纹理映射脚本 for python <br>
 | `uv_mesh`        | Mesh    | UV空间的平面网格     |
 
 
-![这是GH_LSCM.py](GH_LSCM_image.png "GH_LSCM")
+![这是GH_LSCM.py](images/GH_LSCM_image.png "GH_LSCM")
 
 -----
 ## Grasshopper 设置(GH_UV_unwrapp.py)
@@ -55,7 +55,7 @@ Grasshopper LSCM纹理映射脚本 for python <br>
 | **ARAP**  | 尽可能刚性，保面积好               | 减少面积变形，适合物理模拟 |
 
 
-![这是GH_UV_unwrapp](GH_UV_unwrapp_image.png "GH_UV_unwrapp")
+![这是GH_UV_unwrapp](images/GH_UV_unwrapp_image.png "GH_UV_unwrapp")
 
 ## Grasshopper 设置(GH_UV_unwrapp_pro.py)
 ### 输入参数 (Inputs)
@@ -77,4 +77,4 @@ Grasshopper LSCM纹理映射脚本 for python <br>
 | `uv_points`      | Point3d  | UV坐标点云           |
 | `uv_mesh`        | Mesh     | UV空间的平面网格     |
 
-![这是GH_UV_unwrapp_pro](GH_UV_unwrapp_pro_image.png "GH_UV_unwrapp_pro")
+![这是GH_UV_unwrapp_pro](images/GH_UV_unwrapp_pro_image.png "GH_UV_unwrapp_pro")
