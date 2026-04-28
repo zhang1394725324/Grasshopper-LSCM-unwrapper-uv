@@ -1,10 +1,10 @@
 # Grasshopper-LSCM-unwrapper-uv
-
+********
 Grasshopper LSCM纹理映射脚本 <br>
 **通过deepseek生成实现。** <br>
 **适用于Mac和Windows** <br>
 **适用版本：Rhino8** <br>
-
+******
 ## Grasshopper 组件设置(GH_LSCM.py)
 
 | 输入参数         | 类型    | 设置                                                           |
@@ -20,7 +20,7 @@ Grasshopper LSCM纹理映射脚本 <br>
 
 ![这是GH_LSCM.py](GH_LSCM_image.png "GH_LSCM")
 
-
+***********
 ## Grasshopper 设置(GH_UV_unwrapp.py)
 
 | 输入参数         | 类型    | 说明     | 设置                                             |
